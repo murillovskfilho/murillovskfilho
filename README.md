@@ -1,4 +1,4 @@
-### Hi, I'm Murilo 👋
+### Hey!
 
 **Senior QA Engineer** with 6+ years in software quality across financial services, iGaming,
 logistics technology and startups, plus QA consulting. Fully remote since 2020, used to working
@@ -8,10 +8,10 @@ Beyond writing and running tests, I focus on real impact on quality: improving a
 frameworks, strengthening regression coverage, catching critical defects, validating complex
 integrations, and helping teams make reliable release decisions.
 
-- 🧪 Test automation with **Selenium** (Java and Python), **Robot Framework**, **TestNG**, **Cucumber**, **TypeScript** and **Jest**
-- 🔌 REST API testing, SQL databases and CI/CD pipelines
-- 🗄️ Most recently at a logistics tech company: microservices, **Kafka**, **PostgreSQL** and hundreds of automated data-quality checks, investigating failures and telling real product issues apart from test instability and environment problems
-- 🤖 Applying AI to make QA more efficient, from test design and automation development to failure analysis, while keeping validation reliable and engineering judgment in the loop
+-  Test automation with **Selenium** (Java and Python), **Robot Framework**, **TestNG**, **Cucumber**, **TypeScript** and **Jest**
+-  REST API testing, SQL databases and CI/CD pipelines
+-  Most recently at a logistics tech company: microservices, **Kafka**, **PostgreSQL** and hundreds of automated data-quality checks, investigating failures and telling real product issues apart from test instability and environment problems
+-  Applying AI to make QA more efficient, from test design and automation development to failure analysis, while keeping validation reliable and engineering judgment in the loop
 
 ### Portfolio
 

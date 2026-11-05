@@ -1,15 +1,17 @@
 ### Hi, I'm Murilo 👋
 
-**Senior QA Engineer**, with 5+ years testing B2B platforms in logistics, fintech and iGaming.
-I work across the whole stack: REST APIs, web and mobile frontends, and the data pipelines behind
-them. Most of my recent work has been in eventually consistent, multi-tenant systems, where the
-hard bugs live in authorization, ordering and data drift rather than in buttons.
+**Senior QA Engineer** with 6+ years in software quality across financial services, iGaming,
+logistics technology and startups, plus QA consulting. Fully remote since 2020, used to working
+autonomously with distributed teams.
 
-- 🔎 Manual and automated QA from acceptance criteria to release readiness
-- 🧪 Test automation in **TypeScript** (Playwright, Jest) and **Java** (Selenium, Cucumber, TestNG)
-- 🗄️ Data quality on Kafka-fed **bronze/silver/gold** lakes: SQL audits, root-cause analysis on **PostgreSQL**
-- 🔐 API testing with a security mindset: RBAC, tenant isolation, JWT/Auth0, contract testing
-- 🧭 BDD and Gherkin that product people can actually read
+Beyond writing and running tests, I focus on real impact on quality: improving automation
+frameworks, strengthening regression coverage, catching critical defects, validating complex
+integrations, and helping teams make reliable release decisions.
+
+- 🧪 Test automation with **Selenium** (Java and Python), **Robot Framework**, **TestNG**, **Cucumber**, **TypeScript** and **Jest**
+- 🔌 REST API testing, SQL databases and CI/CD pipelines
+- 🗄️ Most recently at a logistics tech company: microservices, **Kafka**, **PostgreSQL** and hundreds of automated data-quality checks, investigating failures and telling real product issues apart from test instability and environment problems
+- 🤖 Applying AI to make QA more efficient, from test design and automation development to failure analysis, while keeping validation reliable and engineering judgment in the loop
 
 ### Portfolio
 
@@ -29,11 +31,12 @@ Each repo runs end to end with one command and has CI on every push plus a night
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robotframework&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7F00?logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)

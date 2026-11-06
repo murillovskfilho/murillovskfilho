@@ -1,6 +1,6 @@
 ### Hey!
 
-**Senior QA Engineer** with 6+ years in software quality across financial services, iGaming,
+**I'm a Senior QA Engineer** with 6+ years in software quality across financial services, iGaming,
 logistics technology and startups, plus QA consulting. Fully remote since 2020, used to working
 autonomously with distributed teams.
 

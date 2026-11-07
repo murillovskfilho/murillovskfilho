@@ -15,7 +15,8 @@ integrations, and helping teams make reliable release decisions.
 
 ### Portfolio
 
-Each repo runs end to end with one command and has CI on every push plus a nightly run.
+Each repo runs end to end with one command and has CI on every push plus a scheduled run.
+More about me: https://murillovskfilho.github.io
 
 | Project | What it shows | Stack |
 |---|---|---|
@@ -33,12 +34,15 @@ Each repo runs end to end with one command and has CI on every push plus a night
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?logo=robotframework&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7F00?logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662CF2?logo=appium&logoColor=white)
+![Maestro](https://img.shields.io/badge/Maestro-1F1F1F?logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)

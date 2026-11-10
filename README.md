@@ -56,4 +56,4 @@ More about me: https://murillovskfilho.github.io
 
 ### Contact
 
-📫 murillovskfilho2@gmail.com · 🇧🇷 Brazil · English and Portuguese
+📫 murillovskfilho2@gmail.com 

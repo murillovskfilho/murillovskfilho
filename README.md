@@ -21,6 +21,7 @@ More about me: https://murillovskfilho.github.io
 | Project | What it shows | Stack |
 |---|---|---|
 | [**llm-eval-harness**](https://github.com/murillovskfilho/llm-eval-harness) | Eval suite for an LLM support assistant: 42 cases on grounding, hallucination, prompt injection (direct and hidden in data), privacy and the JSON contract. Deterministic checks plus an LLM judge, a self-test that proves the grader, and record/replay so CI costs nothing. Compares Claude Haiku 5.5 and Sonnet 5.5. [Results](https://github.com/murillovskfilho/llm-eval-harness/blob/main/evals/logistics-support/SUMMARY.md) | TypeScript · Claude API · Zod · GitHub Actions |
+| [**k6-load-testing**](https://github.com/murillovskfilho/k6-load-testing) | Smoke, load, stress and spike tests against a Node/PostgreSQL API. The load test finds a missing index that the smoke test passes, the analysis proves the root cause with `EXPLAIN` and `pg_stat_statements`, and the fix takes p95 at 50 users from 3.98 s to 3.9 ms. Before/after tables are generated from k6 output, never typed. [Analysis](https://github.com/murillovskfilho/k6-load-testing#analysis) | k6 · Node.js · PostgreSQL · Docker · GitHub Actions |
 | [**data-pipeline-quality-lab**](https://github.com/murillovskfilho/data-pipeline-quality-lab) | E2E and data-quality testing of a Kafka → bronze/silver/gold pipeline. A **canary** job injects real defects to prove the checks catch them | TypeScript · Kafka · PostgreSQL · Jest · SQL |
 | [**mobile-e2e-appium-maestro**](https://github.com/murillovskfilho/mobile-e2e-appium-maestro) | The same Android scenarios written in Appium and in Maestro, each on its own emulator in CI, plus a test that pins a crash the suite found. [Live report](https://murillovskfilho.github.io/mobile-e2e-appium-maestro/) | Appium · WebdriverIO · TypeScript · Maestro · Android |
 | [**playwright-e2e-framework**](https://github.com/murillovskfilho/playwright-e2e-framework) | UI + API framework: persona fixtures, RBAC matrix, tenant isolation, network mocking, race conditions, axe accessibility. [Live report](https://murillovskfilho.github.io/playwright-e2e-framework/) | Playwright · TypeScript · GitHub Pages |
@@ -46,6 +47,7 @@ More about me: https://murillovskfilho.github.io
 ![Appium](https://img.shields.io/badge/Appium-662CF2?logo=appium&logoColor=white)
 ![Maestro](https://img.shields.io/badge/Maestro-1F1F1F?logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![k6](https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)

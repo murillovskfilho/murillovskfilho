@@ -15,11 +15,12 @@ integrations, and helping teams make reliable release decisions.
 
 ### Portfolio
 
-Each repo runs end to end with one command and has CI on every push plus a scheduled run.
+Each repo runs end to end with one command and has CI on every push.
 More about me: https://murillovskfilho.github.io
 
 | Project | What it shows | Stack |
 |---|---|---|
+| [**llm-eval-harness**](https://github.com/murillovskfilho/llm-eval-harness) | Eval suite for an LLM support assistant: 42 cases on grounding, hallucination, prompt injection (direct and hidden in data), privacy and the JSON contract. Deterministic checks plus an LLM judge, a self-test that proves the grader, and record/replay so CI costs nothing. Compares Claude Haiku 5.5 and Sonnet 5.5. [Results](https://github.com/murillovskfilho/llm-eval-harness/blob/main/evals/logistics-support/SUMMARY.md) | TypeScript · Claude API · Zod · GitHub Actions |
 | [**data-pipeline-quality-lab**](https://github.com/murillovskfilho/data-pipeline-quality-lab) | E2E and data-quality testing of a Kafka → bronze/silver/gold pipeline. A **canary** job injects real defects to prove the checks catch them | TypeScript · Kafka · PostgreSQL · Jest · SQL |
 | [**mobile-e2e-appium-maestro**](https://github.com/murillovskfilho/mobile-e2e-appium-maestro) | The same Android scenarios written in Appium and in Maestro, each on its own emulator in CI, plus a test that pins a crash the suite found. [Live report](https://murillovskfilho.github.io/mobile-e2e-appium-maestro/) | Appium · WebdriverIO · TypeScript · Maestro · Android |
 | [**playwright-e2e-framework**](https://github.com/murillovskfilho/playwright-e2e-framework) | UI + API framework: persona fixtures, RBAC matrix, tenant isolation, network mocking, race conditions, axe accessibility. [Live report](https://murillovskfilho.github.io/playwright-e2e-framework/) | Playwright · TypeScript · GitHub Pages |
